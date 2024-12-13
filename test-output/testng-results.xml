@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-02T23:12:14 IST" name="Suite" finished-at="2024-12-02T23:12:20 IST" duration-ms="6352">
+    <groups>
+    </groups>
+    <test started-at="2024-12-02T23:12:14 IST" name="Testloginpage" finished-at="2024-12-02T23:12:17 IST" duration-ms="3677">
+      <class name="com.tka.LoginAutomation">
+        <test-method is-config="true" signature="openloginpage()[pri:0, instance:com.tka.LoginAutomation@57cf54e1]" started-at="2024-12-02T23:12:14 IST" name="openloginpage" finished-at="2024-12-02T23:12:16 IST" duration-ms="2595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openloginpage -->
+        <test-method is-config="true" signature="clearTextBox()[pri:0, instance:com.tka.LoginAutomation@57cf54e1]" started-at="2024-12-02T23:12:16 IST" name="clearTextBox" finished-at="2024-12-02T23:12:16 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearTextBox -->
+        <test-method signature="testheading1()[pri:0, instance:com.tka.LoginAutomation@57cf54e1]" started-at="2024-12-02T23:12:16 IST" name="testheading1" finished-at="2024-12-02T23:12:16 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testheading1 -->
+        <test-method is-config="true" signature="clearTextBox()[pri:0, instance:com.tka.LoginAutomation@57cf54e1]" started-at="2024-12-02T23:12:16 IST" name="clearTextBox" finished-at="2024-12-02T23:12:16 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearTextBox -->
+        <test-method signature="testlogininvalidError()[pri:0, instance:com.tka.LoginAutomation@57cf54e1]" started-at="2024-12-02T23:12:16 IST" name="testlogininvalidError" finished-at="2024-12-02T23:12:17 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogininvalidError -->
+        <test-method is-config="true" signature="clearTextBox()[pri:0, instance:com.tka.LoginAutomation@57cf54e1]" started-at="2024-12-02T23:12:17 IST" name="clearTextBox" finished-at="2024-12-02T23:12:17 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearTextBox -->
+        <test-method signature="testtologinintosysytem()[pri:0, instance:com.tka.LoginAutomation@57cf54e1]" started-at="2024-12-02T23:12:17 IST" name="testtologinintosysytem" finished-at="2024-12-02T23:12:17 IST" duration-ms="478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testtologinintosysytem -->
+        <test-method is-config="true" signature="closedriver()[pri:0, instance:com.tka.LoginAutomation@57cf54e1]" started-at="2024-12-02T23:12:17 IST" name="closedriver" finished-at="2024-12-02T23:12:17 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+      </class> <!-- com.tka.LoginAutomation -->
+    </test> <!-- Testloginpage -->
+    <test started-at="2024-12-02T23:12:17 IST" name="TestAdminpage" finished-at="2024-12-02T23:12:20 IST" duration-ms="2637">
+      <class name="com.tka.AdminPage">
+        <test-method is-config="true" signature="loginToAdminPage()[pri:0, instance:com.tka.AdminPage@771a660]" started-at="2024-12-02T23:12:17 IST" name="loginToAdminPage" finished-at="2024-12-02T23:12:20 IST" duration-ms="2247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToAdminPage -->
+        <test-method signature="testHeadingAdminPage()[pri:0, instance:com.tka.AdminPage@771a660]" started-at="2024-12-02T23:12:20 IST" name="testHeadingAdminPage" finished-at="2024-12-02T23:12:20 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHeadingAdminPage -->
+        <test-method signature="testaddcatagory()[pri:0, instance:com.tka.AdminPage@771a660]" started-at="2024-12-02T23:12:20 IST" name="testaddcatagory" finished-at="2024-12-02T23:12:20 IST" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testaddcatagory -->
+        <test-method signature="testcatagory()[pri:0, instance:com.tka.AdminPage@771a660]" started-at="2024-12-02T23:12:20 IST" name="testcatagory" finished-at="2024-12-02T23:12:20 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcatagory -->
+        <test-method is-config="true" signature="closedriver()[pri:0, instance:com.tka.AdminPage@771a660]" started-at="2024-12-02T23:12:20 IST" name="closedriver" finished-at="2024-12-02T23:12:20 IST" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+      </class> <!-- com.tka.AdminPage -->
+    </test> <!-- TestAdminpage -->
+  </suite> <!-- Suite -->
+</testng-results>
